@@ -1,0 +1,11 @@
+main: me.Killian.AdminGUI.Main
+name: AdminGUI
+version: 1.0
+author: Killian
+api-version: 1.14
+
+commands:
+  AdminGUI:
+    description:
+    usage:
+    aliases: ag
