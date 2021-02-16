@@ -91,7 +91,7 @@ public class Main extends JavaPlugin implements Listener {
 		if (event.getSlot() == 31) {
 			// Food
 			player.setFoodLevel(20);
-			player.sendMessage(ChatColor.translateAlternateColorCodes('&', "&cYou have been &lFed"));
+			player.sendMessage(ChatColor.translateAlternateColorCodes('&', "&cYou are now &lFull"));
 			player.closeInventory();
 		}
 		
